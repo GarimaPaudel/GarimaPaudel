@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GarimaPaudel
 - 👀 I’m interested in Web Development and learning new skills.
+- 🌱 I’m currently learning HTml,CSS and Javascript
 ---
  [![GitHub Streak](https://streak-stats.demolab.com/?user=GarimaPaudel&theme=dark)](https://git.io/streak-stats)
 ---
