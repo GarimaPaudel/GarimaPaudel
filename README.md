@@ -10,7 +10,7 @@
 Let's connect and collaborate! You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/garima-paudel-25b099214/)
 
-  ## Contact
+## Contact
 
 Feel free to contact me via email: [![Email](https://img.shields.io/badge/Email-Click%20to%20Reveal-informational?style=flat&logo=gmail&logoColor=white)](mailto:paudelgarima229@gmail.com)
 
