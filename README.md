@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GarimaPaudel
 - 👀 I’m interested in Web Development, Data Science and learning new skills.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Python Programming.
 ---
  [![GitHub Streak](https://streak-stats.demolab.com/?user=GarimaPaudel&theme=dark)](https://git.io/streak-stats)
 ---
