@@ -19,7 +19,7 @@ Feel free to contact me via email: [![Email](https://img.shields.io/badge/Email-
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarimaPaudel&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaPaudel)](https://github.com/anuraghazra/github-readme-stats)
 <!--- cd
 GarimaPaudel/GarimaPaudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
