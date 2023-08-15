@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning and growing in the field of data science.
 - 👀 I’m interested in Web Development, Data Science and learning new skills.
 - 🎓 Pursuing my Bachelors of Computer Engineering from United Technical College, affiliated to Pokhara University.
--  💼 Open to collaboration and learning new skills.
+-  💼 Open to collaboration.
 
 ## Connect with Me
 
