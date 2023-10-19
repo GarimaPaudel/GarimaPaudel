@@ -15,6 +15,8 @@ Let's connect and collaborate! You can find me on:
 
 Feel free to contact me via email: [![Email](https://img.shields.io/badge/Email-Click%20to%20Reveal-informational?style=flat&logo=gmail&logoColor=white)](mailto:paudelgarima229@gmail.com)
 
+
+[![An image of @garimapaudel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/garimapaudel)](https://holopin.io/@garimapaudel)
 ---
  [![GitHub Streak](https://streak-stats.demolab.com/?user=GarimaPaudel&theme=dark)](https://git.io/streak-stats)
 ---
