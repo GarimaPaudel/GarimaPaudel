@@ -2,7 +2,7 @@
  Welcome to my GitHub profile! Feel free to explore my projects and repositories.
 - 👋 Hi, I’m @GarimaPaudel
 - 🌱 I'm currently learning and growing in the field of data science.
-- 👀 I’m interested in Web Development, Data Science and learning new skills.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science.
 - 🎓 Pursuing my Bachelors of Computer Engineering from United Technical College, affiliated to Pokhara University.
 -  💼 Open to collaboration.
 
