@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @GarimaPaudel
 - 🌱 I'm currently learning and growing in the field of data science.
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science.
-- 🎓 Pursuing my Bachelors of Computer Engineering from United Technical College, affiliated to Pokhara University.
+- 🎓 Bachelors in Computer Engineering.
 -  💼 Open to collaboration.
 
 ## Connect with Me
